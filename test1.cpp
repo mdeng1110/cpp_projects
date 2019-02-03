@@ -6,7 +6,6 @@ int main()
     int num;
     cout << "Enter a number: ";
     cin >> num;
-    cout << "Programming is fun!" << endl;
     cout << "You entered: " << num << endl;
 
     return 0;
